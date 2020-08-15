@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vieira-dev/node-typescript-tdd/issues"
   },
-  "homepage": "https://github.com/vieira-dev/node-typescript-tdd#readme"
+  "homepage": "https://github.com/vieira-dev/node-typescript-tdd#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.4"
+  }
 }
